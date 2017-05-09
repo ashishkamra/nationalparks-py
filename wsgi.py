@@ -32,7 +32,7 @@ api.add_resource(HealthCheck, '/ws/healthz/')
 class Info(Resource):
     description = {
         'id': 'nationalparks-py',
-        'displayName': 'National Parks around the world (PY)',
+        'displayName': 'National Parks around the world-2 (PY)',
         'type': 'cluster',
         'center': {'latitude': '47.039304', 'longitude': '14.505178'},
         'zoom': 4
